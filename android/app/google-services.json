@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "441953362786",
+    "project_id": "nonpawit-be2ff",
+    "storage_bucket": "nonpawit-be2ff.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:441953362786:android:9b82e77e4a906ec2b7023b",
+        "android_client_info": {
+          "package_name": "com.example.flutter_vehicles_management"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3IUlzazzGXZ2o166zf_Lc7UjMD3XfPCw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
